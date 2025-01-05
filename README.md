@@ -1,2 +1,2 @@
 # VisualBasicDevRep
-Please to keep development code for visual basic.
+A place to develop code for visual basic.
